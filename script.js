@@ -249,4 +249,4 @@ function BerthFinder (BerthNo) {
     return answer
 }
 
-console.log(BerthFinder(69))
+console.log(BerthFinder(15))
