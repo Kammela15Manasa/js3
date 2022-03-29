@@ -1,4 +1,4 @@
-console.log("This is Atharva")
+console.log("This is manasa")
 
 function BerthFinder (BerthNo) {
     var answer = " "
